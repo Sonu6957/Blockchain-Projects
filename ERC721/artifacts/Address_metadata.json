@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.10+commit.fc410830"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"erc721.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"erc721.sol": {
+			"keccak256": "0x1a52db21cf0bcd42f643ffeac96cf38760cbd68189a9a7fcf9b2d5d327b0292f",
+			"urls": [
+				"bzz-raw://80a8d42819acbd8638b68ea94305874cf8a68ae2274efb3d83aab78b7c88665d",
+				"dweb:/ipfs/Qme2wiFatsoNuiKF6mmaTbf5Sw5V6rpvZdGAcXoL4294Z9"
+			]
+		}
+	},
+	"version": 1
+}
